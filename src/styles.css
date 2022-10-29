@@ -1,7 +1,12 @@
-h1 {
+h1,
+h2 {
   color: darkorange;
   font-family: "Lobster", cursive;
 
   font-family: "Marck Script", cursive;
   text-align: center;
+}
+
+h2 {
+  font: 26px;
 }

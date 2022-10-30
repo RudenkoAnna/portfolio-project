@@ -54,3 +54,15 @@ body {
 .paragraph {
   text-align: center;
 }
+.plushToys {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  float: center;
+  clear: both;
+  display: table;
+}
+.macrame {
+  margin-left: 30%;
+}

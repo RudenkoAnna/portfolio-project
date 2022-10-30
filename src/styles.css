@@ -5,6 +5,7 @@ h2 {
 
   font-family: "Marck Script";
   text-align: center;
+  padding: 40px;
 }
 
 h2 {
@@ -31,4 +32,25 @@ body {
     rgb(177, 218, 255) 84%,
     rgb(222, 177, 255) 107.9%
   );
+}
+#mail-me {
+  margin: 0 auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  max-width: 25%;
+  padding: auto;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+.row::after {
+  clear: both;
+  display: table;
+}
+.paragraph {
+  text-align: center;
 }

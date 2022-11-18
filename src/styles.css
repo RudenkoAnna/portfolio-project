@@ -34,11 +34,6 @@ body {
   );
 }
 
-nav a:hover,
-nav li.active a {
-  color: darkmagenta;
-}
-
 #mail-me {
   margin: 0 auto;
   border: 1px solid #ddd;

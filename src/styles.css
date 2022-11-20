@@ -80,3 +80,8 @@ footer .etsy-shop:hover {
 footer {
   margin: 60px 0;
 }
+footer .git {
+  text-decoration: none;
+  color: black;
+  text-align: center;
+}

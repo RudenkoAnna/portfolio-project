@@ -67,3 +67,16 @@ body {
 .macrame {
   margin-left: 30%;
 }
+footer .etsy-shop {
+  text-decoration: none;
+  color: black;
+  background-color: rgb(243, 243, 96);
+  font-size: 20px;
+}
+
+footer .etsy-shop:hover {
+  color: green;
+}
+footer {
+  margin: 60px 0;
+}
